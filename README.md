@@ -17,7 +17,7 @@ This game is a game of chance. Here's the instructions of how the game works:
 Clone the project
 
 ```bash
-  git clone https://github.com/JoshuaFontiveros/czyrahs-pizza.git
+  git clone https://github.com/JoshuaFontiveros/pera-o-kahon.git
 ```
 
 Open your file explorer and go where you git clone the project then click the html file inside.
