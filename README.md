@@ -1,5 +1,5 @@
 # Pera O Kahon JavaScript Game
-This website was created using HTML, CSS and JavaScript. This is our first-ever project from Uplift Code Camp. This is my first JavaScript game inspired by Kuya Wil and required by Uplift Code Camp. By the way, in english, pera is money and kahon is box.
+This website was created using HTML, CSS and JavaScript. This is our first-ever game project from Uplift Code Camp. This is my first JavaScript game inspired by Kuya Wil and required by Uplift Code Camp. By the way, in english, pera is money and kahon is box.
 
 This game is a game of chance. Here's the instructions of how the game works:
 * We have 10 boxes on this game.
